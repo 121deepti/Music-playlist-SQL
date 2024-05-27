@@ -11,4 +11,9 @@ There are tables like <b>playlist, playlist_track, artist, album, genre and medi
 
 Conclusions:<br>
 Identify the customers who have spent the most on purchasing music tracks.<br>
-
+Analyze which music genres are the most popular among customers.<br>
+Identify the tracks that appear most frequently in playlists.<br>
+Determine the availability of tracks across different genres and albums.<br>
+Analyze the distribution of invoices over time.<br>
+Calculate the average value of invoices.<br>
+These conclusions provide insights into various aspects of your dataset, helping you understand customer behavior, sales performance, and other key metrics.
