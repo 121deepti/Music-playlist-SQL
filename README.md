@@ -9,4 +9,6 @@ The <b> invoice_line </b> has order details with invoice_line_id is the primary 
 The <b>track table</b>keeps the inforamtion related to ordered track details with track_id is the primary key<br>
 There are tables like <b>playlist, playlist_track, artist, album, genre and media type</b> that conatins specific details of that track details.<br>
 
+Conclusions:<br>
+Identify the customers who have spent the most on purchasing music tracks.<br>
 
