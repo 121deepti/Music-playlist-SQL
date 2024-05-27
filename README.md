@@ -7,7 +7,7 @@ The <b>emploee table </b> has inforamtion related to music company's employee wh
 The <b>invoice table </b> has billing details and has a primary key invoice id<br>
 The <b> invoice_line </b> has order details with invoice_line_id is the primary key<br>
 The <b>track table</b>keeps the inforamtion related to ordered track details with track_id is the primary key<br>
-There are tables like <b>playlist, playlist_track, artist, album, genre and media type</b> that conatins specific details of that track details.<br>
+There are tables like <b>playlist, playlist_track, artist, album, genre and media type</b> that conatins specific details of that track details.<br><br><br>
 
 <b>Conclusions:<br></b>
 Identify the customers who have spent the most on purchasing music tracks.<br>
